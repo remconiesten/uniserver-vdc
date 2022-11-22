@@ -27,8 +27,8 @@ webdmz_staticippool_start = "172.17.17.11"
 webdmz_staticippool_end   = "172.17.17.100"
 
 // DNS
-dns1 = "195.69.75.11"
-dns2 = "83.143.187.137"
+dns1 = "185.168.85.0"
+dns2 = "185.168.85.1"
 
 // OVA to use
 // Make sure this is downloaded on your local system!
